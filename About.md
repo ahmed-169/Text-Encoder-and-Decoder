@@ -1,0 +1,3 @@
+## **ABOUT THE CODE :**
+
+The code is a basic text encoding and decoding program that allows users to convert regular text into a secret code language. It employs specific rules to encode the text by modifying the words based on their length, and it can also decode the encoded message back to its original form. By using predefined strings as markers and reversing shorter words, the program ensures that both encoding and decoding processes are straightforward yet effective. This allows users to securely transform their messages into a coded format and later retrieve the original message.
